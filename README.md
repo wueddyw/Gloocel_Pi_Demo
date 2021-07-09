@@ -23,4 +23,4 @@ Lists all python processes: ps aux | grep -i python
 To kill the process: kill -9 "PID of the main.py"
 
 ## Link to Django Server code
-https://github.com/RoyArka/Django_gloocel
+https://github.com/RoyArka/Gloocel_Django_Demo
